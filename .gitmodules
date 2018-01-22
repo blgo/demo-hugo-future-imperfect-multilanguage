@@ -1,0 +1,4 @@
+[submodule "site/themes/hugo-future-imperfect"]
+	path = site/themes/hugo-future-imperfect
+	url = https://github.com/blgo/hugo-future-imperfect
+	branch = merge-all-multilanguage
