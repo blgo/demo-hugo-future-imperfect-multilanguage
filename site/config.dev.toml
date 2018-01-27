@@ -125,7 +125,7 @@ DefaultContentLanguage = "en"
     [Languages.pl]
 	languageCode = "pl"
         LanguageName = "Polskie"
-        title = "Kicia R na całym świecie"
+        title = "Hugo przyszłość niedoskonała"
         weight = 2
     
             [[Languages.pl.menu.main]]
